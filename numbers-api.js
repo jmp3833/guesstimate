@@ -7,7 +7,7 @@ var alfredsMashapeAPIKey = 'lWfOrv6aupmshHtgAp1NNVFMccmAp1Z2Pn4jsnrs3fDZPK6oSd';
 
 var mashapeUrl = 'https://numbersapi.p.mashape.com/';
 var queryPath = 'random/trivia?';
-var fragmentParam = 'fragment=true&';
+// var fragmentParam = 'fragment=true&';
 var jsonParam = 'json=true&';
 
 /** 
@@ -18,6 +18,7 @@ var jsonParam = 'json=true&';
  * https://www.mashape.com/divad12/numbers-1
  */
 
+// http://localhost:3000/api/generate_question
 router.get('/generate_question', function(req, res) {
   // Configure the request
   var options = {
@@ -35,7 +36,11 @@ router.get('/generate_question', function(req, res) {
       console.log(error);
       console.log('\n[ERROR] Give Up');
     }
-    res.send(body); // Successfully made the request fuck.
+    body = JSON.parse(body);
+    if (body.text.slice(0,3) === 'the') {
+      body.text = "What is " + body.text + "?"; 
+    }
+    res.send(body); // Return to frontend
   });
 
 });
