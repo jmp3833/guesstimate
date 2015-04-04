@@ -41,8 +41,4 @@ router.get('/generate_question', function(req, res) {
 });
 
 
-var getRandomWholeNumber = function() {
-  return Math.floor(Math.random() * 1000);
-} 
-
 module.exports = router;
