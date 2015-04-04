@@ -1,12 +1,18 @@
 var express = require('express');
 var logger = require('morgan');
-
+var path = require('path');
 
 var app = express();
 app.use(logger('dev'));
 
+//Serve up HTML files for our view
+app.engine('html', require('ejs').renderFile);
+app.set('view engine', 'ejs');
+app.use(express.static(path.join(__dirname, '/dist')));
+
+
 app.get('/', function(req, res) {
-  res.send("Fucking homepage.");
+  res.render('./homepage.html');
 });
 
 app.get('/question', function (req, res) {

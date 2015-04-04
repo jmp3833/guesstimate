@@ -45,5 +45,4 @@ router.get('/generate_question', function(req, res) {
 
 });
 
-
 module.exports = router;
