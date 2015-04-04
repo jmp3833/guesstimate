@@ -1,5 +1,13 @@
 var express = require('express');
+var logger = require('morgan');
+
+
 var app = express();
+app.use(logger('dev'));
+
+app.get('/', function(req, res) {
+  res.send("Fucking homepage.");
+});
 
 app.get('/question', function (req, res) {
   res.send({
@@ -14,8 +22,7 @@ app.post('/user_answer', function (req, res) {
   
 });
 
-var server = app.listen(3000, function () {
-  var host = server.address().address;
-  var port = server.address().port;
-  console.log('Guessing Game listening at http://%s:%s', host, port);
-});
+
+app.use('/api', require('./numbers-api'));
+
+var server = app.listen(3000);
