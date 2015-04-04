@@ -35,8 +35,9 @@ router.get('/generate_question', function(req, res) {
       console.log(error);
       console.log('\n[ERROR] Give Up');
     }
-    console.log(body); // Successfully made the request fuck.
+    res.send(body); // Successfully made the request fuck.
   });
+
 });
 
 
