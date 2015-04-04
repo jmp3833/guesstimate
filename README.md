@@ -3,9 +3,9 @@
 Authors
 ===
 
-Jenny Zhan
+Jenny Zhan @<insert handle here>
 Justin Peterson @jmp3833
-Alf Ababio @alfred
-@Kozisg
-@Superjabenman
+Alfred Ababio @alfred
+Konstantin Gizdarski @kosigz
+Jaben McCormack @superjabenman
 
