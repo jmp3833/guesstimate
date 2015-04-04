@@ -1,0 +1,1053 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"req",
+				"requestToNumbers"
+			],
+			[
+				"min",
+				"minNumberParam"
+			],
+			[
+				"max",
+				"maximumNumberParam"
+			],
+			[
+				"jso",
+				"jsonParam"
+			],
+			[
+				"fragm",
+				"fragmentParam"
+			],
+			[
+				"mash",
+				"mashapeUrl"
+			],
+			[
+				"$rou",
+				"$routeProvider	AngularJS"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"ha",
+				"hardshipsSaidYesTo"
+			],
+			[
+				"hard",
+				"hardshipExemptions"
+			],
+			[
+				"el",
+				"eligibleExemptions"
+			],
+			[
+				"gener",
+				"generate-summary"
+			],
+			[
+				"ng-re",
+				"ng-repeat	AngularJS"
+			],
+			[
+				"user",
+				"userHardships"
+			],
+			[
+				"all",
+				"allHardships"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"$inter",
+				"$interpolateProvider	AngularJS"
+			],
+			[
+				"$int",
+				"$interpolateProvider	AngularJS"
+			],
+			[
+				"$nter",
+				"$interpolateProvider	AngularJS"
+			],
+			[
+				"expre",
+				"express-handlebars"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"md",
+				"md-card-content"
+			],
+			[
+				"gen",
+				"generate-summary"
+			],
+			[
+				"qualify",
+				"qualify-for-exemption"
+			],
+			[
+				"ng-swit",
+				"ng-switch-when	AngularJS"
+			],
+			[
+				"hards",
+				"hardshipExemptions"
+			],
+			[
+				"loca",
+				"localStorage"
+			],
+			[
+				"Ex",
+				"ExemptionInterviewService"
+			],
+			[
+				"ex",
+				"exemptionRanking"
+			],
+			[
+				"$loca",
+				"$location	AngularJS"
+			],
+			[
+				"templ",
+				"templateUrl"
+			],
+			[
+				"reas",
+				"reason"
+			],
+			[
+				"chil",
+				"childDependency"
+			],
+			[
+				"prop",
+				"propertyDamage"
+			],
+			[
+				"eli",
+				"eligible-indian-services"
+			],
+			[
+				"summa",
+				"summary-continue"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"down",
+				"downloadedInBackground"
+			],
+			[
+				"main",
+				"mainColumnFull_layout"
+			],
+			[
+				"margni",
+				"margin-left"
+			],
+			[
+				"dyn",
+				"dynamicExemptionCheck"
+			],
+			[
+				"$sc",
+				"$scope	AngularJS"
+			],
+			[
+				"after",
+				"afterCutOff"
+			],
+			[
+				"ef",
+				"eFileDate"
+			],
+			[
+				"togg",
+				"toggleClass	.toggleClass()"
+			],
+			[
+				"gly",
+				"glyphicon-ok"
+			],
+			[
+				"has",
+				"hasClass	.hasClass()"
+			],
+			[
+				"produ",
+				"product-selector-checkbox-content"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"bor",
+				"border-color"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"background-",
+				"background-image"
+			],
+			[
+				"pri",
+				"primary-header"
+			],
+			[
+				"te",
+				"text	.text()"
+			],
+			[
+				"pr",
+				"primary-header"
+			],
+			[
+				"wi",
+				"willSeeYouThen"
+			],
+			[
+				"p",
+				"primary-header"
+			],
+			[
+				"sc",
+				"scheduleYourCheckup"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"border-left",
+				"border-left-width"
+			],
+			[
+				"border-lef",
+				"border-left-style"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"bef",
+				"beforeEach"
+			],
+			[
+				"Pen",
+				"PenaltyWaiver"
+			],
+			[
+				"type",
+				"typeof"
+			],
+			[
+				"post",
+				"postOEPNonOpenEnrollment"
+			],
+			[
+				"months",
+				"monthsArray"
+			],
+			[
+				"mon",
+				"month"
+			],
+			[
+				"hou",
+				"householdDetails"
+			],
+			[
+				"hous",
+				"householdDetails"
+			],
+			[
+				"las",
+				"lastName"
+			],
+			[
+				"Tax",
+				"TaxProfile"
+			],
+			[
+				"TE",
+				"text-decoration"
+			],
+			[
+				"show",
+				"show-gt-sm"
+			],
+			[
+				"laoyut",
+				"layout-align"
+			],
+			[
+				"saveD",
+				"saveDataExemption"
+			],
+			[
+				"sn",
+				"sn-mobile-overlay"
+			],
+			[
+				"dep",
+				"dependentsList"
+			],
+			[
+				"CFP",
+				"CFPDataTimer"
+			],
+			[
+				"layout",
+				"layout-align"
+			],
+			[
+				"get",
+				"getExemptionDataFromTaxProfile"
+			],
+			[
+				"is",
+				"isMailingAddress"
+			],
+			[
+				"up",
+				"updateIfEmpty"
+			],
+			[
+				"sit",
+				"situationEnd"
+			],
+			[
+				"exs",
+				"exemptions"
+			],
+			[
+				"situ",
+				"situationOngoing"
+			],
+			[
+				"suc",
+				"success"
+			],
+			[
+				"$loc",
+				"$location	AngularJS"
+			],
+			[
+				"$http",
+				"$httpBackend	AngularJS"
+			],
+			[
+				"$htp",
+				"$httpBackend	AngularJS"
+			],
+			[
+				"layou",
+				"layout-align"
+			],
+			[
+				"md-card",
+				"md-card-content"
+			],
+			[
+				"md-",
+				"md-item-content"
+			],
+			[
+				"md-c",
+				"md-card-content"
+			],
+			[
+				"border-rad",
+				"border-top-right-radius"
+			],
+			[
+				"Suss",
+				"Successfully"
+			],
+			[
+				"exe",
+				"exemption"
+			],
+			[
+				"un",
+				"uninsured"
+			],
+			[
+				"mont",
+				"months"
+			],
+			[
+				"ssn",
+				"ssnInfo"
+			],
+			[
+				"pho",
+				"phoneInfo"
+			],
+			[
+				"isM",
+				"isMailingAddress"
+			],
+			[
+				"house",
+				"householdDetails"
+			],
+			[
+				"update",
+				"updateIfEmpty"
+			],
+			[
+				"upd",
+				"updateIfEmpty"
+			],
+			[
+				"bi",
+				"birthday"
+			],
+			[
+				"sav",
+				"saveData"
+			],
+			[
+				"save",
+				"saveDataExemption"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"per",
+				"personDetails"
+			],
+			[
+				"la",
+				"Lastname"
+			],
+			[
+				"pers",
+				"person"
+			],
+			[
+				"househol",
+				"householdDetails"
+			],
+			[
+				"exp",
+				"expectGET"
+			],
+			[
+				"tax",
+				"taxProfileURL"
+			],
+			[
+				"h",
+				"hasClass	.hasClass()"
+			],
+			[
+				"har",
+				"hardshipNumber"
+			],
+			[
+				"su",
+				"suffix"
+			],
+			[
+				"firs",
+				"firstName"
+			],
+			[
+				"situa",
+				"situationOngoing"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "server.js",
+			"settings":
+			{
+				"buffer_size": 498,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "numbers-api.js",
+			"settings":
+			{
+				"buffer_size": 1343,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "inst",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"in	",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/aababio/guesstimate"
+	],
+	"file_history":
+	[
+		"/Users/aababio/guesstimate/fuck.html",
+		"/Users/aababio/guesstimate/numbers-api.js",
+		"/Users/aababio/guesstimate/.gitignore",
+		"/Users/aababio/guesstimate/package.json",
+		"/Users/aababio/material-website/scss/app.scss",
+		"/Users/aababio/material-website/public/javascripts/app.js",
+		"/Users/aababio/material-website/views/layouts/layout.html",
+		"/Users/aababio/material-website/views/home.html",
+		"/Users/aababio/material-website/README.md",
+		"/Users/aababio/material-website/views/partials/nav.html",
+		"/Users/aababio/material-website/app.js",
+		"/Users/aababio/material-website/views/projects/projects.html",
+		"/Users/aababio/material-website/routes/index.js",
+		"/Users/aababio/material-website/views/partials/menu-to-arrow.html",
+		"/Users/aababio/material-website/public/bower.json",
+		"/Users/aababio/material-website/public/javascripts/lazy-javascript.js",
+		"/Users/aababio/material-website/public/javascripts/menu-to-arrow.js",
+		"/Users/aababio/material-website/views/error.jade",
+		"/Users/aababio/material-website/views/index.jade",
+		"/Users/aababio/material-website/views/partials/menu-to-arrow.hbs",
+		"/Users/aababio/material-website/views/partials/nav.hbs",
+		"/Users/aababio/material-website/views/home.hbs",
+		"/Users/aababio/material-website/package.json",
+		"/Users/aababio/material-website/public/views/home.html",
+		"/Users/aababio/material-website/public/views/error.html",
+		"/Users/aababio/material-website/public/views/index.html",
+		"/Users/aababio/material-website/views/index.html",
+		"/Users/aababio/material-website/views/error.html",
+		"/Users/aababio/material-website/views/layouts/index.hbs",
+		"/Users/aababio/material-website/views/partials/menu-icon.hbs",
+		"/Users/aababio/material-website/bower_components/angular/package.json",
+		"/Users/aababio/material-website/views/library.hbs",
+		"/Users/aababio/material-website/gulpfile.js",
+		"/Users/aababio/material-website/routes/users.js",
+		"/Users/aababio/material-website/views/projects.hbs",
+		"/Users/aababio/Perforce/aababio_tthealth/depot/healthcare/tthealth/src/main/webapp/experiences/healthcare/js/ef/app/interview/interview.months.tpl.html",
+		"/Users/aababio/Perforce/aababio_tthealth/depot/healthcare/tthealth/src/main/webapp/experiences/healthcare/js/ef/app/interview/interview.qualified-all.tpl.html",
+		"/Users/aababio/Perforce/aababio_tthealth/depot/healthcare/tthealth/src/main/webapp/experiences/healthcare/js/ef/app/interview/interview.summary-continue.tpl.html",
+		"/Users/aababio/Perforce/aababio_tthealth/depot/healthcare/tthealth/src/main/webapp/experiences/healthcare/js/ef/app/interview/questions.json",
+		"/Users/aababio/Perforce/aababio_tthealth/depot/healthcare/tthealth/src/main/webapp/experiences/healthcare/js/ef/services/exemptionRanking-service.js",
+		"/Users/aababio/Perforce/aababio_tthealth/depot/healthcare/tthealth/src/main/webapp/experiences/healthcare/js/ef/services/exemption-interview-service.js",
+		"/Users/aababio/Perforce/aababio_tthealth/depot/healthcare/tthealth/src/main/webapp/experiences/healthcare/js/ef/app/interview/interview.html",
+		"/Users/aababio/Perforce/aababio_tthealth/depot/healthcare/tthealth/src/main/webapp/experiences/healthcare/js/ef/app/interview/interview.js",
+		"/Users/aababio/Perforce/aababio_tthealth/depot/healthcare/tthealth/src/main/webapp/experiences/healthcare/js/ef/app/interview/mobile-questions.json",
+		"/Users/aababio/Perforce/aababio_tthealth/depot/healthcare/tthealth/src/main/webapp/experiences/healthcare/js/ef/services/listCollections.js",
+		"/Users/aababio/material-website/bin/www",
+		"/Users/aababio/material-website/views/error.hbs",
+		"/Users/aababio/material-website/views/index.hbs",
+		"/Users/aababio/material-website/views/error.handlebars",
+		"/Users/aababio/material-website/views/layouts/nav.handlebars",
+		"/Users/aababio/material-website/views/home.handlebars",
+		"/Users/aababio/material-website/public/stylesheets/app.css",
+		"/Users/aababio/material-website/index.html",
+		"/Users/aababio/material-website/views/layout.jade",
+		"/Users/aababio/Perforce/aababio_tthealth/depot/healthcare/tthealth/src/main/webapp/experiences/healthcare/js/ef/pages/exemptionFinder.jsp",
+		"/Users/aababio/material-website/styles/scss/app.scss",
+		"/Users/aababio/material-website/scripts/app.js",
+		"/Users/aababio/material-website/styles/scss/menu-icon.scss",
+		"/Users/aababio/material-website/partials/menu-hb.html",
+		"/Users/aababio/material-website/styles/css/hamburger-menu.css",
+		"/Users/aababio/material-website/bower_components/angular-material/modules/js/sidenav/sidenav.css",
+		"/Users/aababio/material-website/bower_components/angular-material/index.js",
+		"/Users/aababio/material-website/bower_components/angular-material/modules/js/sidenav/sidenav.js",
+		"/Users/aababio/Perforce/aababio_tthealth/depot/healthcare/tthealth/src/main/webapp/experiences/healthcare/js/ef/services/cfp-data-service.js",
+		"/Users/aababio/Perforce/aababio_tthealth/depot/healthcare/tthealth/src/main/webapp/experiences/healthcare/js/ef/app/interview/interview.checkpoint.tpl.html",
+		"/Users/aababio/Perforce/aababio_tthealth/depot/healthcare/tthealth/src/main/webapp/experiences/healthcare/js/ef/app/interview/interview.prompt.tpl.html",
+		"/Users/aababio/Perforce/aababio_tthealth/depot/healthcare/tthealth/src/main/webapp/experiences/healthcare/js/ef/app/interview/interview.count.tpl.html",
+		"/Users/aababio/Perforce/aababio_tthealth/depot/healthcare/tthealth/src/main/webapp/experiences/healthcare/js/ef/app/application-summary/application-summary.html",
+		"/Users/aababio/Perforce/aababio_tthealth/depot/healthcare/tthealth/src/main/webapp/experiences/healthcare/js/ef/app/submitted-application/submitted-application.html",
+		"/private/tmp/aababio(p4v)/Alfred.local_cgp4-sd.corp.intuit.net_4000/depot/healthcare/tthealth/src/main/webapp/experiences/healthcare/js/ef/app/submitted-application/submitted-application#20.html",
+		"/Users/aababio/Perforce/aababio_tthealth/depot/healthcare/tthealth/src/main/webapp/experiences/healthcare/js/ef/app/application.js",
+		"/private/tmp/aababio(p4v)/Alfred.local_cgp4-sd.corp.intuit.net_4000/depot/healthcare/tthealth/src/main/webapp/experiences/healthcare/js/ef/app/submitted-application/submitted-application#21.js",
+		"/Users/aababio/Perforce/aababio_tthealth/depot/healthcare/tthealth/src/main/webapp/experiences/healthcare/js/ef/app/cms-survey/cms-survey.js",
+		"/Users/aababio/Perforce/aababio_tthealth/depot/healthcare/tthealth/src/main/webapp/experiences/healthcare/js/ef/app/interview/interview.generator.tpl.html",
+		"/Users/aababio/Perforce/aababio_tthealth/depot/healthcare/tthealth/src/main/webapp/experiences/healthcare/js/ef/app/interview/interview.input-income.tpl.html",
+		"/Users/aababio/Perforce/aababio_tthealth/depot/healthcare/tthealth/src/main/webapp/experiences/healthcare/js/ef/services/exemption-interview-service.test.js",
+		"/Users/aababio/Perforce/aababio_tthealth/depot/healthcare/tthealth/src/main/webapp/experiences/healthcare/js/ef/services/tax-profile-service.test.js",
+		"/Users/aababio/Perforce/aababio_tthealth/depot/healthcare/tthealth/src/main/webapp/experiences/healthcare/js/ef/app/submitted-application/submitted-application.js",
+		"/Users/aababio/Perforce/aababio_tthealth/depot/healthcare/tthealth/src/main/webapp/experiences/healthcare/js/ef/app/submitted-application/submitted-application.test.js",
+		"/Users/aababio/Perforce/aababio_tthealth/depot/healthcare/tthealth/src/main/webapp/experiences/healthcare/js/ef/app/upload-options/upload-options.test.js",
+		"/Users/aababio/Perforce/aababio_tthealth/depot/healthcare/tthealth/src/main/webapp/experiences/healthcare/js/ef/app/submitted-application/submitted-application.less",
+		"/Users/aababio/material-website/bower.json",
+		"/Users/aababio/material-website/.gitignore",
+		"/Users/aababio/Turbo-X-Client/public/editor.html",
+		"/Users/aababio/Turbo-X-Client/app.js",
+		"/Users/aababio/Turbo-X-Client/public/nodes.html",
+		"/Users/aababio/Turbo-X-Client/public/requirement-box.html",
+		"/Users/aababio/Turbo-X-Client/routes/index.js",
+		"/Users/aababio/Turbo-X-Client/public/css/style.css",
+		"/Users/aababio/Turbo-X-Client/public/requirements.html",
+		"/Users/aababio/Turbo-X-Client/public/docviewer.html",
+		"/Users/aababio/Turbo-X-Client/public/docs.html",
+		"/Users/aababio/Turbo-X-Client/public/demo.html",
+		"/Users/aababio/Turbo-X-Client/public/js/services/data.service.coffee",
+		"/Users/aababio/Turbo-X-Client/spec/controllers/layoutSpec.js",
+		"/Users/aababio/Turbo-X-Client/routes/users.js",
+		"/private/tmp/aababio(p4v)/Alfred.local_cgp4-sd.corp.intuit.net_4000/depot/healthcare/tthealth/src/test/spec/views/survey#25.js",
+		"/Users/aababio/Perforce/aababio_tthealth/depot/healthcare/tthealth/src/main/webapp/experiences/healthcare/js/healthcare/dependencies/fastclick.js",
+		"/Users/aababio/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/aababio/Downloads/detectmobilebrowser.js",
+		"/Users/aababio/Perforce/aababio_tthealth/depot/healthcare/tthealth/src/main/webapp/experiences/healthcare/js/healthcare/routers/router.js",
+		"/Users/aababio/Perforce/aababio_tthealth/depot/ttcom/branches/EMS2/turbotax/src/main/webapp/handlebars/noncampaign/aca/less/aca.less",
+		"/private/tmp/aababio(p4v)/Alfred.local_cgp4-sd.corp.intuit.net_4000/depot/ttcom/branches/EMS2/turbotax/src/main/webapp/handlebars/common/templates/partials/navbar/less/navbar@=4832376.less",
+		"/Users/aababio/Perforce/aababio_tthealth/depot/ttcom/branches/EMS2/turbotax/src/main/webapp/handlebars/common/templates/partials/navbar/less/navbar.less",
+		"/Users/aababio/Perforce/aababio_tthealth/depot/healthcare/tthealth/src/main/webapp/experiences/healthcare/js/healthcare/templates/layouts/singleColumn_layout.html",
+		"/Users/aababio/Perforce/aababio_tthealth/depot/healthcare/tthealth/src/main/webapp/experiences/healthcare/less/base/_footers.less",
+		"/private/tmp/aababio(p4v)/Alfred.local_cgp4-sd.corp.intuit.net_4000/depot/healthcare/tthealth/src/main/webapp/experiences/healthcare/blocks/nav-healthcare#42.jsp",
+		"/Users/aababio/Perforce/aababio_tthealth/depot/healthcare/tthealth/src/main/webapp/experiences/healthcare/js/ef/app/uploader/uploader.js",
+		"/Users/aababio/Perforce/aababio_tthealth/depot/healthcare/tthealth/src/main/webapp/experiences/healthcare/js/ef/directives/input-format.js",
+		"/Users/aababio/Perforce/aababio_tthealth/depot/healthcare/tthealth/src/main/webapp/experiences/healthcare/js/ef/app/form/form.applicant.tpl.html",
+		"/Users/aababio/Perforce/aababio_tthealth/depot/healthcare/tthealth/src/main/webapp/experiences/healthcare/js/ef/app/form/form.address.tpl.html",
+		"/Users/aababio/Perforce/aababio_tthealth/depot/healthcare/tthealth/src/main/webapp/experiences/healthcare/js/healthcare/views/layouts/singleColumn_layout.js",
+		"/Users/aababio/Perforce/aababio_tthealth/depot/healthcare/tthealth/src/main/webapp/experiences/healthcare/less/base/_cardFlow.less",
+		"/Users/aababio/Perforce/aababio_tthealth/depot/healthcare/tthealth/src/main/webapp/experiences/healthcare/less/globals/_variables.less",
+		"/Users/aababio/Perforce/aababio_tthealth/depot/healthcare/tthealth/src/main/webapp/experiences/healthcare/js/healthcare/views/myown.js",
+		"/Users/aababio/Perforce/aababio_tthealth/depot/healthcare/tthealth/src/main/webapp/experiences/healthcare/js/healthcare/views/getHelp.js",
+		"/Users/aababio/Perforce/aababio_tthealth/depot/healthcare/tthealth/src/main/webapp/experiences/healthcare/less/base/_survey.less",
+		"/Users/aababio/Perforce/aababio_tthealth/depot/healthcare/tthealth/src/main/webapp/experiences/healthcare/less/base/_base.less",
+		"/Users/aababio/Perforce/aababio_tthealth/depot/healthcare/tthealth/src/main/webapp/experiences/healthcare/js/healthcare/templates/your_options.html",
+		"/Users/aababio/Perforce/aababio_tthealth/depot/healthcare/tthealth/src/main/webapp/experiences/healthcare/js/healthcare/views/youroptions.js",
+		"/Users/aababio/Perforce/aababio_tthealth/depot/healthcare/tthealth/src/main/webapp/experiences/healthcare/js/healthcare/views/layouts/mainColumnFull_layout.js",
+		"/Users/aababio/Perforce/aababio_tthealth/depot/healthcare/tthealth/src/main/webapp/experiences/healthcare/js/healthcare/templates/layouts/mainColumnFull_layout.html",
+		"/Users/aababio/Perforce/aababio_tthealth/depot/healthcare/tthealth/src/main/webapp/experiences/healthcare/less/base/_leftRail.less",
+		"/Users/aababio/Perforce/aababio_tthealth/depot/healthcare/tthealth/src/main/webapp/experiences/healthcare/pages/obamacare-facts.jsp",
+		"/Users/aababio/Perforce/aababio_tthealth/depot/healthcare/tthealth/src/main/webapp/experiences/healthcare/less/index.less",
+		"/Users/aababio/Perforce/aababio_tthealth/depot/healthcare/tthealth/src/main/webapp/experiences/healthcare/less/globals/_mixins.less",
+		"/Users/aababio/Perforce/aababio_tthealth/depot/healthcare/tthealth/src/test/spec/views/TestSpecYourOptions.js",
+		"/Users/aababio/Perforce/aababio_tthealth/depot/healthcare/tthealth/src/main/webapp/experiences/healthcare/js/healthcare/views/lifeSurvey.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"request",
+			"a",
+			"code",
+			"button",
+			"2",
+			"]",
+			"[",
+			"000",
+			"style=\"fill:#fff;\"",
+			";\" ",
+			"10",
+			"20",
+			"3",
+			"24",
+			"20",
+			"48",
+			"16",
+			"ul",
+			"hardshipExemptions",
+			"question",
+			"hardshipsQualified",
+			"hardships",
+			"hardship",
+			"Hardship",
+			"hardship",
+			"qualified",
+			"Qualified",
+			"24",
+			"32",
+			"24",
+			"16",
+			"24",
+			"000",
+			"18",
+			"a",
+			"public",
+			"exphbs",
+			"scaffold",
+			"name",
+			"material-design-hamburger__icon",
+			"div",
+			"span",
+			"button",
+			"height",
+			"md-title",
+			"0",
+			"span",
+			"p",
+			"shit",
+			"ng-switch",
+			"qualify-for-exemption",
+			"summary-continue",
+			"continue",
+			"hardship",
+			"exemptionRanking",
+			"exempt-t",
+			"exempt-",
+			"exempt-tax-time-jail",
+			"hardships",
+			"hcInterview",
+			"ELIGIBLE",
+			"icon",
+			"h1",
+			"spyOn(window, \"location\")",
+			"jasmine-jquery",
+			"$",
+			"shouldDownloadInBackground",
+			"h1",
+			"downloadedInBackground",
+			"internet",
+			"fastclick.js",
+			"downloadedInBackground",
+			"p",
+			"$scope.loading",
+			"Creating Application",
+			"width: 100%;",
+			".navbar .logo",
+			"background: none repeat scroll",
+			"background: none repeat scroll 0 ",
+			"background: none repeat scroll 0 0 rgba(0, 0, 0",
+			".navbar",
+			".navbar ",
+			".pocket-door-content",
+			"#get-health-insurance",
+			"Look at plans",
+			"$scope.loading",
+			"loading",
+			"Creating Application",
+			"footer-complement",
+			"Qualify",
+			"#twoColumn_leftRail .broken-flow",
+			".card",
+			".flipbox-container",
+			".flipbox",
+			".twoColumn",
+			".cardFlow",
+			".mainColumn",
+			".body-content-container",
+			"body-content-container",
+			"editInfo",
+			"data-behavior=\"editInfo\"",
+			"ehealthinsurance.com",
+			"eHealth",
+			"karma:ci",
+			"should navigate to the help-paying-health-insurance page",
+			"SiteMap link clicks",
+			"singleColumn_layout",
+			"app.View.Lifesurvey",
+			"app.View.Medicare",
+			"Subsidy eligible single page with options",
+			"singleColumn_layout",
+			"should remove error when zip on survey is",
+			"should return survey_maybe",
+			"singleColumn_layout",
+			"should flag me as uninsured",
+			"should prevent letter k from being entered into age",
+			"should show tooltip",
+			"it should show tooltip",
+			"Penalty:",
+			"Penalty",
+			"YourOptions",
+			"SignIn",
+			"Survey",
+			"singleColumnFull_layout",
+			"singleColumnFull",
+			"Employer",
+			"singleColumnLayout",
+			"singleColumn"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "server.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 498,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								65,
+								65
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "numbers-api.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1343,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								58,
+								58
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "gstim8.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Perforce/aababio_tthealth/depot/healthcare/tthealth/src/main/webapp/experiences/healthcare/js/ef/app/interview/md-site.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 228.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

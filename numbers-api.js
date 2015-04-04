@@ -1,5 +1,5 @@
 var express = require('express'),
-    http = require('https');
+    http = require('http');
     request = require('request');
 
 var router = express.Router();
@@ -42,7 +42,6 @@ router.get('/generate_question', function(req, res) {
     }
     res.send(body); // Return to frontend
   });
-
 });
 
 module.exports = router;
