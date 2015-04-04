@@ -5,6 +5,7 @@
     "ejs": "^2.3.1",
     "express": "^4.12.3",
     "morgan": "^1.5.2",
-    "request": "^2.54.0"
+    "request": "^2.54.0",
+    "pg": "latest"
   }
 }
